@@ -1,6 +1,6 @@
 ### Olá! eu sou a Luísa Veronese
 
-- 🔭 Hoje pretendo trabalhar com front-end
+- 🔭 Trabalhando como full-stack
 - 🌱 Sou estudante de análise e desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: luisamoraes2003@gmail.com
 - 😄 Pronomes: ela/dela
