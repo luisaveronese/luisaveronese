@@ -1,9 +1,9 @@
-### Olá! eu sou a Luísa Veronese
+### Welcome
+---
+### I'm Luisa! Let me present a little about myself
 
-- 🔭 Trabalhando como full-stack
-- 🌱 Sou estudante de análise e desenvolvimento de sistemas
-- 📫 Contate-me no e-mail: luisamoraes2003@gmail.com
-- 😄 Pronomes: ela/dela
+- 🔭 I'm a Front End Engineer
+- 📫 Contact me on my email: luisamoraes2003@gmail.com
  
  <div align="center">
 <a href="https://github.com/luisaveronese">
